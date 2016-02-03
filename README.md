@@ -5,6 +5,13 @@ Qiitaの「手と目で覚える正規表現入門」をやる
   - https://github.com/mono0926/RegexPractice/issues/1 にて完了
 2. その2はまだ
 
+## 実行方法
+
+1. `carthage bootstrap`実行
+- workspaceをXcodeで開く
+- `PySwiftyRegex-iOS`をビルド
+- 適当なPlaygroundページを開く
+
 ## 環境
 
 - [cezheng/PySwiftyRegex: Easily deal with Regex in Swift in a Pythonic way](https://github.com/cezheng/PySwiftyRegex)を利用
