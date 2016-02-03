@@ -12,3 +12,7 @@ Qiitaの「手と目で覚える正規表現入門」をやる
   - Pythonの正規表現ぽく書けるSwiftライブラリ
 - [Pythonでの正規表現の使い方 - Qiita](http://qiita.com/wanwanland/items/ce272419dde2f95cdabc)
 - [正規表現 HOWTO — Python 2.7.x ドキュメント](http://docs.python.jp/2/howto/regex.html)
+
+## 便利サイト
+
+- [Rubular: a Ruby regular expression editor and tester](http://rubular.com/)
