@@ -5,7 +5,8 @@ Qiitaの「手と目で覚える正規表現入門」をやる
   - https://github.com/mono0926/RegexPractice/issues/1 にて完了
 2. [初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう」 - Qiita](http://qiita.com/jnchito/items/64c3fdc53766ac6f2008)
   - https://github.com/mono0926/RegexPractice/issues/3 にて完了
-3. その3はまだ
+3. [初心者歓迎！手と目で覚える正規表現入門・その３「空白文字を自由自在に操ろう」 - Qiita](http://qiita.com/jnchito/items/6f0c885c1c4929092578)
+  - https://github.com/mono0926/RegexPractice/issues/4 にて完了
 
 ## 実行方法
 
