@@ -3,9 +3,7 @@
 import UIKit
 import PySwiftyRegex
 
-
 //: # \d: 半角数字
-
 
 let target = "名前：伊藤淳一" +
     "電話：03-1234-5678" +
